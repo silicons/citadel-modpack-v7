@@ -4929,8 +4929,8 @@ hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
 metafile = true
 
 [[files]]
-file = "mods/randompatches.pw.toml"
-hash = "4ff6d82e4a0ad6857d669099791a8eefff37b1c19ee4f39a5e0beb8f6111ee82"
+file = "mods/randompatches-forge.pw.toml"
+hash = "a0e618f7fa6b546fa5007a681d49d475d50a421eff368bbe78c20e7f183be124"
 metafile = true
 
 [[files]]
