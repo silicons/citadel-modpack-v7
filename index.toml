@@ -5181,7 +5181,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "727a1911080bd4b8041986e47d9e4d556b4d78756636643470f7e54a46116349"
-
-[[files]]
-file = "servers.dat"
-hash = "44a9e31e1dbe9b7bd9e900042ee44ad1a27376d7ee0f406beb72d3805d95826c"
