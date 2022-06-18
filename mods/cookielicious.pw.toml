@@ -1,0 +1,13 @@
+name = "Cookielicious"
+filename = "cookielicious-1.16.5-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfead3921e9eb5569a36d3a8acd468b5387f58c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3491052
+project-id = 409577

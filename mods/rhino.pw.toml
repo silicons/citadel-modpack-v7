@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-forge-1605.1.5-build.75.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7cf08ed860845564a22cd17c1f17f857d4b33dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3525704
+project-id = 416294

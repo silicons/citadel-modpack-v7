@@ -1,0 +1,13 @@
+name = "Chisel"
+filename = "Chisel-MC1.16.5-2.0.1-alpha.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "495ac2e30c068c3d458e318a8322aa3309637ff3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3376782
+project-id = 235279

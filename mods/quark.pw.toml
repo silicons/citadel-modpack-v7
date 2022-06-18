@@ -1,0 +1,13 @@
+name = "Quark"
+filename = "Quark-r2.4-322.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c314a534737baba9416c4947e15f81c6243f9844"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3642325
+project-id = 243121

@@ -1,0 +1,19 @@
+
+[general]
+	#Enables the void Rescue chat message
+	enableVoidMessage = true
+	#Detects if a player is in a conflicting block and moves the player to a nearby emptyspace
+	enableSpawnConflictDetection = true
+	#Sets the Max time a player will be protected on dimension change in seconds
+	#Range: > 0
+	dimensionChangeTime = 15
+	#Makes the player invisible to mobs while protected
+	enableMobProtection = true
+	#Sets the Max time a player will be protected in seconds
+	#Range: > 0
+	spawnProtectTime = 20
+	#Prevents spawning of squid in non water blocks and vary small pools. Intended for use in skyblocks.
+	enableSquidControl = false
+	#Teleport the player to world spawn if they fall out of the world during protect time
+	enableVoidRescue = true
+

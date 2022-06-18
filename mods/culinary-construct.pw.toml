@@ -1,0 +1,13 @@
+name = "Culinary Construct"
+filename = "culinaryconstruct-forge-1.16.5-4.0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b83ac02c893677938e6e354100e26ef694ce319b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3756671
+project-id = 296676

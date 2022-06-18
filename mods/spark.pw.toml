@@ -1,0 +1,13 @@
+name = "spark"
+filename = "spark-1.9.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/1.9.1-forge1165/spark-1.9.1-forge.jar"
+hash-format = "sha1"
+hash = "e535ad75bb2f541ea8c9ad3fda5da9b3241c2575"
+
+[update]
+[update.modrinth]
+mod-id = "l6YH9Als"
+version = "9NSIbttL"

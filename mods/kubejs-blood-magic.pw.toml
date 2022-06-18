@@ -1,0 +1,13 @@
+name = "KubeJS Blood Magic"
+filename = "kubejs-blood-magic-1605.1.1-build.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc80b50c5591f162b606868546b138e98eb9428a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3451660
+project-id = 428277

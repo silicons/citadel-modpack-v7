@@ -1,0 +1,13 @@
+name = "Eidolon"
+filename = "eidolon-0.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8dc85b50a88b9b3ef96bb934a6aca0d4f4388a80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3157832
+project-id = 429625

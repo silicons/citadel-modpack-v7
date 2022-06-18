@@ -1,0 +1,13 @@
+name = "Decorative Blocks"
+filename = "decorative_blocks-1.16.4-1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2f1cc7ce9556364bc8fb74b1fed0bd5e8550c5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3166283
+project-id = 362528

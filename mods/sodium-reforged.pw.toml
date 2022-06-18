@@ -1,0 +1,13 @@
+name = "Magnesium"
+filename = "magnesium-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84c1ed7343dc20763dae5a05e9191de97e5bdcc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3526076
+project-id = 532724

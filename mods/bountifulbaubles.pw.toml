@@ -1,0 +1,13 @@
+name = "BountifulBaubles"
+filename = "bountifulbaubles-1.16.5-0.1.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d55ac5d765fbd9c892fb9c69dee6ab0958f56333"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3431126
+project-id = 313536

@@ -1,0 +1,13 @@
+name = "KubeJS UI"
+filename = "kubejs-ui-forge-1605.1.4-build.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "321bfdf0d130532ce020d77c1c290a73cb01e30b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3415279
+project-id = 423490

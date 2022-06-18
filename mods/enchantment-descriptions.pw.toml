@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-1.16.5-7.0.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b28f404343fb5561a92efeb33b96ee4e8344aad6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3732240
+project-id = 250419

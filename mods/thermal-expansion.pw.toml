@@ -1,0 +1,13 @@
+name = "Thermal Expansion"
+filename = "thermal_expansion-1.16.5-1.5.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hmD6rrUJ/versions/1.5.0/thermal_expansion-1.16.5-1.5.0.7.jar"
+hash-format = "sha1"
+hash = "b3ebb303622499c4b8d7511f7ef96f3a6b962eca"
+
+[update]
+[update.modrinth]
+mod-id = "hmD6rrUJ"
+version = "VxzK1TBD"

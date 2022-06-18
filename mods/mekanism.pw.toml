@@ -1,0 +1,13 @@
+name = "Mekanism"
+filename = "Mekanism-1.16.5-10.1.2.457.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ce6I4WUE/versions/10.1.2.457/Mekanism-1.16.5-10.1.2.457.jar"
+hash-format = "sha1"
+hash = "e7ec62394e8ac4b254c4e7cc57360903d7c35980"
+
+[update]
+[update.modrinth]
+mod-id = "Ce6I4WUE"
+version = "DlhxRTKL"

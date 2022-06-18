@@ -1,0 +1,13 @@
+name = "Citadel v7"
+author = "Citadel Station"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4e05a66258a4deb5963bcb112e4af484ffe20eb4fdeffaa70bf4cd4673c1190c"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"

@@ -1,0 +1,13 @@
+name = "mutil"
+filename = "mgui-1.16.5-3.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75c2627cbfc1806d71f4e333b9a1293abf3b90b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3456505
+project-id = 351914

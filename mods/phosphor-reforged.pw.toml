@@ -1,0 +1,13 @@
+name = "Sulfuric"
+filename = "sulfuric-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f18ed077f4352566f361fcb1e63f9899e60c419"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3496027
+project-id = 533801

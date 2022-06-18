@@ -1,0 +1,13 @@
+name = "JEI Bees"
+filename = "jeibees-1.0.0.3-mc1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fe49aa3eb41dbeaae66e27f5c126b9980b01afd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3647895
+project-id = 248370

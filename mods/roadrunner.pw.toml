@@ -1,0 +1,13 @@
+name = "RoadRunner"
+filename = "RoadRunner-mc1.16.5-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b53b54eb9729e8081842e624359324a83a244a96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3683120
+project-id = 529754

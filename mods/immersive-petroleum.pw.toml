@@ -1,0 +1,13 @@
+name = "Immersive Petroleum"
+filename = "ImmersivePetroleum-1.16.5-3.3.0-11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9cb599d050e29d869e80e2ee5da812873a137b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3608210
+project-id = 268250

@@ -1,0 +1,13 @@
+name = "Dungeon Crawl"
+filename = "DungeonCrawl-1.16.5-2.3.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "367deadacb70b6aab1884740d8fd896e5f969948"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3833867
+project-id = 324973

@@ -1,0 +1,13 @@
+name = "Refined Storage: Requestify"
+filename = "rsrequestify-1.16.5-2.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f822dcf3277b9c7523257f2ac6dc92b17650bdf7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3597580
+project-id = 307788

@@ -1,0 +1,13 @@
+name = "Placebo"
+filename = "Placebo-1.16.5-4.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c616fccc1888f90ddf60d947aa97c94481a33d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3750838
+project-id = 283644

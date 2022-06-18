@@ -1,0 +1,13 @@
+name = "Myrtrees"
+filename = "myrtrees-forge-1.0.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b738f156050b2c0f7d26cdcf54d0aaea2b19821"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3553611
+project-id = 546151

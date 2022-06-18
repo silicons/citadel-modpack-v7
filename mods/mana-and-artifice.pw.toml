@@ -1,0 +1,13 @@
+name = "Mana and Artifice"
+filename = "mana-and-artifice-1.5.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "723578d61c100750b2b811bec3997c279c03c2cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3651870
+project-id = 406360

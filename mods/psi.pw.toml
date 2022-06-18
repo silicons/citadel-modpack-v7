@@ -1,0 +1,13 @@
+name = "Psi"
+filename = "Psi+1.16-97.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pOeA0exL/versions/1.16-97/Psi%2B1.16-97.jar"
+hash-format = "sha1"
+hash = "27893311063e7aa462c99222a75ae3ede7846845"
+
+[update]
+[update.modrinth]
+mod-id = "pOeA0exL"
+version = "gzHp9JQr"

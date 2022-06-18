@@ -1,0 +1,13 @@
+name = "Back Tools"
+filename = "BackTools-1.16.5-10.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e7c311f6fc367d79ce38ad7a64c83b605e151c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3802780
+project-id = 229061

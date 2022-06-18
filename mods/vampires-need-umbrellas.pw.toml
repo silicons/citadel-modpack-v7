@@ -1,0 +1,13 @@
+name = "Vampires Need Umbrellas"
+filename = "VampiresNeedUmbrellas-1.16.5-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "befcce00690589c4971460d1e1e708b97db81ec8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3494620
+project-id = 364129

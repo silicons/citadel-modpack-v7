@@ -1,0 +1,13 @@
+name = "Neapolitan"
+filename = "neapolitan-1.16.5-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9672280f3c383b773857491f41639cdca5e8707e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3567243
+project-id = 382016

@@ -1,0 +1,13 @@
+name = "The Endergetic Expansion"
+filename = "endergetic-1.16.5-3.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51ff2ecd7a34c48b128ab99a8290fd1b46b8a5b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3750371
+project-id = 291509

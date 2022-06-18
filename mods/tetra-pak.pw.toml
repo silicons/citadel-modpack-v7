@@ -1,0 +1,13 @@
+name = "Tetra Pak"
+filename = "tetrapak-1.16.5-0.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3a24ea1d2e5a72260bf294c42fd2b40f87a8b13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3761729
+project-id = 463554
