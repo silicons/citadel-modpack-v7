@@ -4744,11 +4744,6 @@ hash = "03b95396f886a22987e8fee18d1b9855e4f06c09d166e180e3e0339665aeb36b"
 metafile = true
 
 [[files]]
-file = "mods/login-shield.pw.toml"
-hash = "04c0b2b89243a5daa32024574344f329b6eb3917038eabd595764706cc41403e"
-metafile = true
-
-[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "13250d0e75a63cc3e680d17c28f54378035df64ee75c8d5cd524485ac14ad3e0"
 metafile = true
