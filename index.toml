@@ -4894,6 +4894,11 @@ hash = "40bc6e57a804718c15b33e2b9e413dc635b0f074da93714ba962c1e19fd267c2"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "6e3a0420abf4757ca240f5f1f4a2033a7c78db9cef80bba7d30a8441e4d3d2dc"
+metafile = true
+
+[[files]]
 file = "mods/progressive-bosses.pw.toml"
 hash = "b592643af6ba28e5871c7f0385bc19fa7c94595e0ed10fc2ad0354ea5e1f08fe"
 metafile = true
